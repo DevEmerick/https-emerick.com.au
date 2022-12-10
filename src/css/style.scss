@@ -1,0 +1,124 @@
+@import "partials/nav-menu";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #112240;
+  color: #ccd6f6;
+  font-family: "Poppins", sans-serif;
+}
+
+.landing-page {
+  max-width: auto;
+  height: 100vh;
+  /* border: 1px solid red; */
+}
+
+img {
+  width: 42px;
+  height: 42px;
+  /* border: 1px solid green; */
+  margin-left: 42px;
+}
+.menu-items a {
+  float: right;
+  text-decoration: none;
+  padding-right: 50px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ccd6f6;
+}
+
+.content {
+  position: relative;
+  left: 40%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 700px;
+  height: 500px;
+  /* border: 1px solid purple; */
+}
+
+.content p {
+  font-family: "Poppins", sans-serif;
+}
+
+.content p:first-child {
+  color: #64ffda;
+}
+
+.content p:nth-child(2) {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  margin-top: 24px;
+  margin-bottom: 2px;
+}
+
+.content p:nth-child(3) {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  margin-bottom: 2px;
+}
+
+.content p:nth-child(4) {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+button {
+  margin-top: 60px;
+  color: #64ffda;
+  border: 1px solid #64ffda;
+  height: 48px;
+  width: 240px;
+  left: 360px;
+  top: 585px;
+  border-radius: 0px;
+}
+
+.back-image {
+  position: absolute;
+  width: 250px;
+  height: 350px;
+
+  top: 150px;
+  right: 320px;
+  background: url(../../public/emerick-img1.svg);
+
+  border: 1px solid #6644ff;
+  border-radius: 50px;
+
+  filter: drop-shadow(0px 173px 80px rgba(100, 255, 218, 0.0469654))
+    drop-shadow(0px 79.4188px 83.2637px rgba(100, 255, 218, 0.0409859))
+    drop-shadow(0px 49.4847px 80.4716px rgba(100, 255, 218, 0.0391737))
+    drop-shadow(0px 32.8619px 65.47px rgba(100, 255, 218, 0.0434873))
+    drop-shadow(0px 20.6819px 33.9911px rgba(100, 255, 218, 0.0538898))
+    drop-shadow(0px 10.1135px 10.3037px rgba(100, 255, 218, 0.07));
+  transform: matrix(0.91, 0.38, -0.44, 0.92, 0, 0);
+}
+
+.back-image2 {
+  position: absolute;
+  width: 250px;
+  height: 350px;
+
+  bottom: 93px;
+  right: 130px;
+  background: url(../../public/emerick-img2.svg);
+
+  border: 1px solid #6644ff;
+  border-radius: 50px;
+
+  filter: drop-shadow(0px 173px 80px rgba(100, 255, 218, 0.0469654))
+    drop-shadow(0px 79.4188px 83.2637px rgba(100, 255, 218, 0.0409859))
+    drop-shadow(0px 49.4847px 80.4716px rgba(100, 255, 218, 0.0391737))
+    drop-shadow(0px 32.8619px 65.47px rgba(100, 255, 218, 0.0434873))
+    drop-shadow(0px 20.6819px 33.9911px rgba(100, 255, 218, 0.0538898))
+    drop-shadow(0px 10.1135px 10.3037px rgba(100, 255, 218, 0.07));
+  transform: matrix(0.91, -0.38, 0.43, 0.92, 0, 0);
+}
