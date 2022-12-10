@@ -28,6 +28,7 @@ function App() {
           </span>
 
           <button type="button">Check out My Projects</button>
+          test
         </div>
           <div className="back-image">
           </div>
