@@ -1,8 +1,10 @@
-img {
+.logo {
   width: 42px;
   height: 42px;
-  /* border: 1px solid green; */
+  fill: #64ffda;
   margin-left: 42px;
+  background: url(/public/e.svg);
+  background-repeat: no-repeat;
 }
 
 .back-image {
@@ -31,7 +33,7 @@ img {
   width: 250px;
   height: 350px;
 
-  bottom: 93px;
+  bottom: 75px;
   right: 130px;
   background: url(../../public/emerick-img2.svg);
 
