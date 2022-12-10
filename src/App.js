@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="landing-page">
         <div className="nav-menu">
-          <img src="" alt="logo" />
+          <div className="logo" src="" alt="logo" />
           <div className="menu-items">
             <a href="#menu">About</a>
             <a href="#experience">Experience</a>
