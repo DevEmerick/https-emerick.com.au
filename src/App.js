@@ -17,7 +17,7 @@ function App() {
           <span>
             <p>Hi my name is</p>
             <p>Guilherme Emerick</p>
-            <p>I build things for the Web</p>
+            <p>I'm a Web Developer</p>
             <p>
               I've always been passionate about technology and nowadays my
               hobbie and profession is to give life to websites. Welcome to my
@@ -30,7 +30,11 @@ function App() {
         <div className="back-image"></div>
         <div className="back-image2"></div>
         <div className="socials">
-          <a href="#instagram">
+          <a
+            href="https://www.instagram.com/_emericks/"
+            rel="noreferrer"
+            target="_blank"
+          >
             <svg
               width="26"
               height="26"
@@ -59,7 +63,7 @@ function App() {
               />
             </svg>
           </a>
-          <a href="#github">
+          <a href="https://github.com/EmerickDev" rel="noreferrer" target="_blank">
             <svg
               width="26"
               height="26"
@@ -76,7 +80,7 @@ function App() {
               />
             </svg>
           </a>
-          <a href="#linkedin">
+          <a href="https://www.linkedin.com/in/guilherme-emerick-26945816a/" rel="noreferrer" target="_blank">
             <svg
               width="26"
               height="26"
@@ -100,7 +104,7 @@ function App() {
               />
             </svg>
           </a>
-          <a href="#codepen">
+          <a href="https://codepen.io/emerick832" rel="noreferrer" target="_blank">
             <svg
               width="24"
               height="24"
