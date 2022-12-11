@@ -1,3 +1,13 @@
+.nav-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: auto;
+  height: 90px;
+  /* border: 1px solid blue; */
+  margin-top: 10px;
+}
+
 .landing-page {
   max-width: auto;
   height: 100vh;
@@ -13,12 +23,3 @@
   color: #ccd6f6;
 }
 
-.nav-menu {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  max-width: auto;
-  height: 90px;
-  /* border: 1px solid blue; */
-  margin-top: 10px;
-}
