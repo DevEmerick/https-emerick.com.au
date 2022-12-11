@@ -8,10 +8,9 @@ function App() {
         <div className="nav-menu">
           <div className="logo" src="" alt="logo" />
           <div className="menu-items">
-            <a href="#menu">About</a>
-            <a href="#experience">Experience</a>
-            <a href="#work">Work</a>
             <a href="#contact">Contact</a>
+            <a href="#project">Project</a>
+            <a href="#menu">About</a>
           </div>
         </div>
 
