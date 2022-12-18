@@ -165,6 +165,78 @@ button {
   margin-right: 26px;
 }
 
+@media only screen and (max-width: 375px) {
+  .content {
+    width: 375px;
+    height: 300px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+  }
+  .logo {
+    background: url(/public/mini-logo.svg);
+    background-repeat: no-repeat;
+    margin-left: 19px;
+  }
+  .content p:nth-child(1) {
+    font-size: 12px;
+  }
+  .content p:nth-child(2) {
+    font-size: 18px;
+    margin-top: 0px;
+    font-weight: bold;
+  }
+  .content p:nth-child(3) {
+    font-size: 18px;
+    width: 410px;
+    height: 40px;
+    margin-top: -15px;
+    font-weight: bold;
+  }
+  .content p:nth-child(4) {
+    margin-top: 10px;
+    font-size: 12px;
+    width: 300px;
+    font-weight: 300;
+  }
+  .menu-items {
+    display: none;
+  }
+  .back-image {
+    width: 120px;
+    height: 200px;
+    bottom: 250px;
+    left: 70px;
+    transform: none;
+  }
+  .back-image2 {
+    display: none;
+  }
+  button {
+    width: 220px;
+    height: 40px;
+    font-size: 14px;
+    margin-top: 300px;
+    margin-left: 45px;
+  }
+  .socials {
+    flex-direction: column;
+    height: 200px;
+    width: 30px;
+    top: 300px;
+    left: 250px;
+    background: transparent;
+  }
+  .socials a {
+    width: 18px;
+    height: 18px;
+    margin-top: 30px;
+    background: transparent;
+  }
+  .socials a svg {
+    background: transparent;
+  }
+}
 * {
   padding: 0;
   margin: 0;
