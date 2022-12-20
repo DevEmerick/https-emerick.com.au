@@ -178,10 +178,6 @@ button {
     width: 300px;
     height: 200px;
   }
-  .logo {
-    background: url(/public/mini-logo.svg) no-repeat;
-    margin-left: 19px;
-  }
 }
 @media only screen and (max-width: 430px) {
   .content {
