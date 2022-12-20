@@ -185,8 +185,7 @@ button {
     left: 220px;
   }
   .logo {
-    background: url("/public/mini-logo.svg");
-    background-repeat: no-repeat;
+    z-index: 100;
     margin-left: 19px;
   }
   .content p:nth-child(1) {
