@@ -171,7 +171,7 @@ button {
     height: 300px;
     position: relative;
     top: 150px;
-    left: 200px;
+    left: 220px;
   }
   .logo {
     background: url(/public/mini-logo.svg);
@@ -217,7 +217,7 @@ button {
     height: 40px;
     font-size: 14px;
     margin-top: 300px;
-    margin-left: 45px;
+    margin-left: 40px;
   }
   .socials {
     flex-direction: column;
