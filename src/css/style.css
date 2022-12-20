@@ -185,7 +185,7 @@ button {
     left: 220px;
   }
   .logo {
-    background: url(/public/mini-logo.svg);
+    background: url("/public/mini-logo.svg");
     background-repeat: no-repeat;
     margin-left: 19px;
   }
