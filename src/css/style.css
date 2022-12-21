@@ -170,6 +170,7 @@ button {
     margin-left: 60px;
   }
   .back-image {
+    display: block;
     margin-left: 20px;
     z-index: 100;
   }
