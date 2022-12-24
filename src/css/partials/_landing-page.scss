@@ -4,7 +4,7 @@
   }
   .back-image {
     margin-left: 20px;
-    z-index: 100;
+    z-index: 1;
   }
   .socials {
     margin-left: 50px;
@@ -60,6 +60,7 @@
   }
 
   .back-image {
+    z-index: 1;
     width: 120px;
     height: 200px;
     bottom: 250px;

@@ -1,5 +1,6 @@
 @media only screen and (max-width: 960px) {
   .back-image {
+    z-index: 1;
     width: 200px;
     height: 300px;
     background-position: center;
@@ -16,6 +17,7 @@
   }
   
   .back-image2 {
+    z-index: 1;
     width: 200px;
     height: 300px;
     background-position: center;
