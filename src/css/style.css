@@ -79,7 +79,7 @@ button {
   height: 42px;
   fill: #64ffda;
   margin-left: 42px;
-  background: url(/public/e.svg);
+  background: url(/public/e.svg) no-repeat;
   background-repeat: no-repeat;
 }
 
@@ -90,6 +90,7 @@ button {
   top: 150px;
   right: 320px;
   background: url(../../public/emerick-img1.svg);
+  background-attachment: scroll;
   border: 1px solid #6644ff;
   border-radius: 50px;
   filter: drop-shadow(0px 173px 80px rgba(100, 255, 218, 0.0469654)) drop-shadow(0px 79.4188px 83.2637px rgba(100, 255, 218, 0.0409859)) drop-shadow(0px 49.4847px 80.4716px rgba(100, 255, 218, 0.0391737)) drop-shadow(0px 32.8619px 65.47px rgba(100, 255, 218, 0.0434873)) drop-shadow(0px 20.6819px 33.9911px rgba(100, 255, 218, 0.0538898)) drop-shadow(0px 10.1135px 10.3037px rgba(100, 255, 218, 0.07));
@@ -173,6 +174,7 @@ button {
   }
   .back-image {
     background: url(../../public/emerick-img1.svg);
+    background-attachment: scroll;
     margin-left: 20px;
     z-index: 1;
   }
@@ -191,7 +193,7 @@ button {
     left: 220px;
   }
   .logo {
-    background: url(/public/mini-logo.svg);
+    background: url(/public/mini-logo.svg) no-repeat;
     background-attachment: scroll;
     margin-left: 19px;
   }
