@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.574243c0.css",
+    "main.js": "/static/js/main.155498b8.js",
+    "static/js/787.d0bed1b3.chunk.js": "/static/js/787.d0bed1b3.chunk.js",
+    "static/media/emerick-img1.svg": "/static/media/emerick-img1.a77759d2170771d80e16.svg",
+    "static/media/emerick-img2.svg": "/static/media/emerick-img2.7a34ed678fdafacdf346.svg",
+    "index.html": "/index.html",
+    "static/media/e.svg": "/static/media/e.7151680b1e8b47072c24.svg",
+    "static/media/mini-logo.svg": "/static/media/mini-logo.1760957887792ee9a5f8.svg",
+    "main.574243c0.css.map": "/static/css/main.574243c0.css.map",
+    "main.155498b8.js.map": "/static/js/main.155498b8.js.map",
+    "787.d0bed1b3.chunk.js.map": "/static/js/787.d0bed1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.574243c0.css",
+    "static/js/main.155498b8.js"
+  ]
+}
