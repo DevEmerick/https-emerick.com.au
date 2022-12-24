@@ -192,6 +192,7 @@ button {
   }
   .logo {
     background: url(/public/mini-logo.svg) no-repeat center center fixed;
+    background-attachment: scroll;
     margin-left: 19px;
   }
   .content p:nth-child(1) {
