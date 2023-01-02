@@ -25,7 +25,7 @@
   }
 
   .logo {
-    background: url(/public/mini-logo.svg) no-repeat;
+    background-image: url("/public/mini-logo.svg") no-repeat;
     background-attachment: scroll;
     margin-left: 19px;
   }
@@ -63,7 +63,7 @@
   }
 
   .back-image {
-    background: url(/public/emerick-img-small.jpg);
+    background-image: url("/public/emerick-img-small.jpg");
     z-index: 1;
     width: 120px;
     height: 200px;
