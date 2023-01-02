@@ -3,7 +3,7 @@
     margin-left: 60px;
   }
   .back-image {
-    background-image: url("/public/emerickImg-phone.svg");
+    background-image: url("/public/emerick-img2.svg") no-repeat;
     background-attachment: scroll;
     margin-left: 20px;
     z-index: 1;
@@ -63,7 +63,7 @@
   }
 
   .back-image {
-    background-image: url("/public/emerickImg-phone.svg");
+    background-image: url("/public/emerick-img2.svg") no-repeat;
     z-index: 1;
     width: 120px;
     height: 200px;
@@ -75,7 +75,7 @@
   }
 
   .back-image2 {
-    display: none;
+    background-image: url("/public/emerick-img2.svg") no-repeat;
   }
 
   button {
