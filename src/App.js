@@ -193,7 +193,6 @@ function App() {
           </div>
         </div>
         <div className="back-image">
-          
         </div>
         <div className="back-image2"></div>
         <div className="socials">
