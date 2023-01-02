@@ -3,8 +3,20 @@
   height: 42px;
   fill: #64ffda;
   margin-left: 42px;
-  background: url(/public/e.svg) no-repeat;
+  background-image: url(/public/e.svg) no-repeat;
   background-repeat: no-repeat;
+}
+
+
+.spiderman-logo svg {
+  background-image: url("/public/spiderman-logo.svg") no-repeat;
+  position: absolute;
+  left: 280px;
+  bottom: 188px;
+  background: linear-gradient(180deg, #272a31 0%, #0a0c10 100%);
+  width: 60px;
+  height: 60px;
+  border-radius: 30%;
 }
 
 .back-image {
@@ -14,8 +26,7 @@
 
   top: 150px;
   right: 320px;
-  background: url(../../public/emerick-img1.svg);
-  background-attachment: scroll;
+  background-image: url("/public/emerick-img1.svg") no-repeat;
 
   border: 1px solid #6644ff;
   border-radius: 50px;
@@ -36,7 +47,7 @@
 
   bottom: 75px;
   right: 130px;
-  background: url(../../public/emerick-img2.svg);
+  background-image: url(/public/emerick-img2.svg);
 
   border: 1px solid #6644ff;
   border-radius: 50px;
