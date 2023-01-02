@@ -3,18 +3,18 @@
     margin-left: 60px;
   }
   .back-image {
+    background: url(/public/emerick-mobile.svg);
     width: 100px;
     height: 100px;
-    background-image: url("/public/emerick-img1.svg");
     background-attachment: scroll;
     margin-left: 20px;
-    z-index: 1;
   }
   .socials {
     margin-left: 50px;
     width: 300px;
     height: 200px;
   }
+
 }
 
 @media only screen and (max-width: 430px) {
@@ -27,7 +27,7 @@
   }
 
   .logo {
-    background-image: url("/public/mini-logo.svg") no-repeat;
+    background: url(/public/mini-logo.svg) no-repeat;
     background-attachment: scroll;
     margin-left: 19px;
   }
@@ -65,8 +65,7 @@
   }
 
   .back-image {
-    background-image: url("/public/emerick-img1.svg");
-    z-index: 1;
+    background: url(/public/emerick-mobile.svg);
     width: 120px;
     height: 200px;
     bottom: 250px;
