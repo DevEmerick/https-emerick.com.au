@@ -1,5 +1,6 @@
 @media only screen and (max-width: 960px) {
   .back-image {
+    background: url(/public/emerick-img1.svg) no-repeat;
     z-index: 1;
     width: 200px;
     height: 300px;
@@ -15,7 +16,7 @@
     top: 320px;
     right: 90px;
   }
-  
+
   .back-image2 {
     z-index: 1;
     width: 200px;
@@ -56,5 +57,4 @@
   button {
     margin-top: 100px;
   }
-  
 }
