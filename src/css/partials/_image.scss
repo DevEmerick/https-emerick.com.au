@@ -3,7 +3,7 @@
   height: 42px;
   fill: #64ffda;
   margin-left: 42px;
-  background-image: url(/public/e.svg) no-repeat;
+  background-image: url("/public/e.svg") no-repeat;
   background-repeat: no-repeat;
 }
 
@@ -26,7 +26,7 @@
 
   top: 150px;
   right: 320px;
-  background-image: url("/public/emerick-img1.svg") no-repeat;
+  background: url(/public/emerick-img1.svg) no-repeat;
 
   border: 1px solid #6644ff;
   border-radius: 50px;
@@ -47,7 +47,7 @@
 
   bottom: 75px;
   right: 130px;
-  background-image: url(/public/emerick-img2.svg);
+  background-image: url("/public/emerick-img2.svg");
 
   border: 1px solid #6644ff;
   border-radius: 50px;
