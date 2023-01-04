@@ -25,7 +25,7 @@ function App() {
             </p>
           </span>
 
-          <button type="button">Check out My Projects</button>
+          <button type="button"><a href="/projects/spyder/index.html" target="_blank">Check out My Projects</a></button>
           <div className="spiderman-logo">
             <svg
               width="1793"
