@@ -246,7 +246,6 @@ function App() {
                 stroke="#CCD6F6"
                 strokeWidth="1.5"
                 strokeLinecap="round"
-                strokeLinecap="round"
               />
             </svg>
           </a>
