@@ -8,7 +8,7 @@ function App() {
           <div className="logo" src="" alt="logo" />
           <div className="menu-items">
             <a href="#contact">Contact</a>
-            <a href="#project">Project</a>
+            <a href="/projects/spyder/index.html" target="_blank">Project</a>
             <a href="#menu">About</a>
           </div>
         </div>
