@@ -34,19 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "Welcome to my website!",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DevEmerick/https-emerick.com.au.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DevEmerick/https-emerick.com.au/issues"
-  },
-  "homepage": "https://github.com/DevEmerick/https-emerick.com.au#readme"
+  }
 }
